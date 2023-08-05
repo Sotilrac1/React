@@ -5,6 +5,8 @@ export default function App() {
   return (
     <div className="App">
       <Expenseitem />
+      <Expenseitem />
+      <Expenseitem />
     </div>
   );
 }
